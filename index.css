@@ -1,0 +1,28 @@
+.header .title {
+	font-family: 'Atomic Age', Georgia, serif;
+	font-size: 28px;
+}
+
+body {
+	background-color: #d2def2;
+}
+
+.content table{
+	background-color: #FFFFFF;
+	margin: 0 auto;
+	width: 90%;
+	text-align: left;
+	overflow: hidden;
+	border: 1px solid black;
+}
+
+.content td {
+	border: 1px solid black;
+	text-align: center;
+	height: 200px;
+	min-width: 200px;
+}
+.content img{
+	max-height: 300px;
+	max-width: 100%
+}
