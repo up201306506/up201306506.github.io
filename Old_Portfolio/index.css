@@ -26,3 +26,13 @@ body {
 	max-height: 300px;
 	max-width: 100%
 }
+
+/*font*/
+@font-face {
+  font-family: 'Atomic Age';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Atomic Age Regular'), local('AtomicAge-Regular'), 
+	url(font/atomicage-regular.ttf) 
+	format('truetype');
+}
